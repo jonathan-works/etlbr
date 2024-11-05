@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="eltbr",
-    version="1.0.0.0",
+    name="etlspark",
+    version="0.1",
     packages=find_packages(),
     install_requires=[],
     description="Lib etl",
